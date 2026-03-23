@@ -1,0 +1,7 @@
+a=int(input("Enter a number: "))
+b=int(input("Enter a number: "))
+print("The summation is: ",a+b)
+print("The substraction is: ",a-b)
+print("The multiplication is: ",a*b)
+print("The division is: ",a/b,"floor value is: ",(a/b-a//b))
+print("The reminder is: ",a%b)
