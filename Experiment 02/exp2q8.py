@@ -1,0 +1,5 @@
+a = input('Enter a senetence')  
+print('upper case: ',a.upper())        
+print('lower case: ',a.lower())        
+print('Capitalize',a.capitalize())   
+print('Length: ',len(a))           
